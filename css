@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    #dashboard {
+        justify-content: space-between;
+    }
+
+    .distributor-card {
+        width: 100%;
+    }
+}
